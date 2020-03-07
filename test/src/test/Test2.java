@@ -5,6 +5,6 @@ public class Test2 {
 		System.out.println("xxs222xx");
 		System.out.println("fail");
 		System.out.println("xxs222xx");System.out.println("xxs222xx");
-		System.out.println("xxs222xx");
+		System.out.println("xxs333xx");
 	}
 }
